@@ -1,7 +1,7 @@
 
 # TEORÍA CUÁNTICA BÁSICA, OBSERVABLES Y MEDIDAS
-## JEISSON DAVID SANCHEZ GOMEZ
-### CNYT - 4
+## JOHN SEBASTIAN PEÑA SANCHEZ
+### CNYT 
 #### El sistema consiste en una partícula confinada a un conjunto discreto de posiciones en una línea. El simulador debe permitir especificar el número de posiciones y un vector ket de estado asignando las amplitudes.
 
 1. El sistema debe calcular la probabilidad de encontrarlo en una posición en particular.
